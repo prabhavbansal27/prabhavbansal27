@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=160&section=header&text=Prabhav%20Bansal&fontSize=40&fontAlign=72&animation=fadeIn&fontColor=ffffff&desc=Engineer%20%C2%B7%20Founder&descAlign=72&descAlignY=75&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+systems+%26+data+infrastructure;Founder+%40+Nayikala+%E2%80%94+AI+growth+for+Indian+SMEs;200M%2B+rows%2Fday+%C2%B7+1B%2B+people+profiles;Search+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+automation;Backend-first%2C+product-capable%2C+founder-minded" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+systems+%26+data+infrastructure;Founding+Nayikala+%E2%80%94+AI+growth+for+Indian+SMEs;Founding+GigaCity+%E2%80%94+agrivoltaic+energy+%26+food;200M%2B+rows%2Fday+%C2%B7+1B%2B+people+profiles;Search+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+automation;Backend-first%2C+product-capable%2C+founder-minded" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,7 @@ Backend-first engineer and founder. I own messy, high-scale infrastructure probl
 
 By day: data pipelines and AI tooling at [Crustdata](https://crustdata.com). Before that: carrier systems and telecom infrastructure at [Plivo](https://plivo.com). Most of my highest-impact work lives in private repositories — this profile is intentionally outcome-led. **Scale handled, systems shipped, problems solved** are better proxies than commit volume. Private contributions are enabled.
 
-Founding [Nayikala](https://nayikala.com) — AI growth systems for Indian SMEs. Real ops, not theatre.
+Founding [Nayikala](https://nayikala.com) — AI growth systems for Indian SMEs. And [GigaCity](https://gigacity.in) — agrivoltaic platform turning farmland into shared clean energy and organic food infrastructure. Two different problems, same bias toward production systems over prototypes.
 
 Building at the intersection of **backend systems, data infrastructure, and AI-powered products**. I care about craft: from backend reliability to the way a product actually feels when someone uses it.
 
@@ -32,7 +32,7 @@ Building at the intersection of **backend systems, data infrastructure, and AI-p
 
 ---
 
-## Founding: Nayikala
+## Founding
 
 **[nayikala.com](https://nayikala.com)** — AI growth systems for Indian SMEs (10–250 employees)
 
@@ -51,6 +51,23 @@ Not consulting. Not POCs. Production systems that teams actually use daily.
 **Flagship product**: [Rep4Real](https://rep4real.com) — demonstrates the full automation workflow: lead intake, WhatsApp integration, inquiry routing, follow-up automation. Built to be seen working, not just described.
 
 `Astro · Next.js · React · FastAPI · PostgreSQL · WhatsApp API · Resend · Vercel`
+
+---
+
+### GigaCity — Agrivoltaic Community Platform
+
+India's farmland crisis and solar access gap are the same problem viewed from different angles. GigaCity puts solar panels 6–8 feet above farmland: electricity generated above, organic crops grown below. One piece of land serves two income streams, three stakeholder groups.
+
+**The three problems it solves simultaneously:**
+- Farmers trapped in loan cycles, MSP anxiety, and middlemen — GigaCity gives them ₹3.21L/acre/year with buyback guarantees
+- Urban dwellers and renters locked out of rooftop solar — GigaCity lets them buy stakes in real plants on real farmland
+- Investors wanting real-asset exposure in renewables — 35–45% ROE, 1–2 year exit window, pre-sold demand before plants go live
+
+> One land. Clean energy. Organic food. Three stakeholders winning simultaneously.
+
+**Built**: full multi-page marketing site (R3F 3D scroll, GSAP, Lenis), landing page (Framer Motion), Remotion-based promotional video, design system variations.
+
+`Next.js · React Three Fiber · GSAP · Framer Motion · Remotion · Lenis`
 
 ---
 
@@ -108,9 +125,12 @@ What makes it interesting: the **retrieval thinking** — hybrid BM25 + vector s
 
 **[Emprix](https://github.com/prabhavbansal27/emprix)** *(active)*
 
-Full-stack collaboration and investment platform — teams, hiring, and investment workflows in one place. Built with a production-grade async stack.
+Production-grade platform for solar project collaboration, talent hiring, and investment — the infrastructure layer powering GigaCity. Six distinct user roles (consumer, gig worker, investor, contractor, private project owner, admin), each with bespoke onboarding state machines, permission layers, and workflows.
 
-`FastAPI · PostgreSQL · Redis · Celery · React 19 · TypeScript · Tailwind v4`
+What makes it serious engineering: **51 database models**, **23 service classes**, **56 repository classes**, ICO/funding mechanics with margin pool ROE calculations, an AI-assisted design collaboration workspace with artifact versioning and step dependencies, a full material marketplace (brand → model → technology → BOM costing), Celery async job queue with Redis, and 160+ test functions covering state machine transitions and permission boundaries.
+
+`FastAPI · PostgreSQL · Redis · Celery · React 19 · TypeScript · Tailwind v4 · Docker · Alembic · Vitest`
+*51 models · 23 services · 160+ tests · Docker Compose production stack*
 
 ---
 
@@ -147,6 +167,8 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 ## Currently Building
 
 - **Nayikala** — Scaling client delivery, deepening vertical playbooks, building toward productized SaaS
+- **GigaCity** — Platform launch: stakeholder onboarding, live project dashboards, investor ICO mechanics
+- **Emprix** — Design workspace, contractor management, private project funding flows
 - **Sansad QA** — Public deployment: web app + browser extension for real-time parliamentary fact-checking
 - **AI Agent Architectures** — MCP servers, multi-agent workflows, natural-language interfaces for data platforms
 
