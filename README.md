@@ -56,7 +56,7 @@ Not consulting. Not POCs. Production systems that teams actually use daily.
 
 ### GigaCity — Agrivoltaic Community Platform
 
-India's farmland crisis and solar access gap are the same problem viewed from different angles. GigaCity puts solar panels 6–8 feet above farmland: electricity generated above, organic crops grown below. One piece of land serves two income streams, three stakeholder groups.
+India's farmland crisis and solar access gap are the same problem viewed from different angles. GigaCity puts solar panels 6–8 feet above farmland: electricity generated above, organic crops grown below. One piece of land, two income streams, three stakeholder groups.
 
 **The three problems it solves simultaneously:**
 - Farmers trapped in loan cycles, MSP anxiety, and middlemen — GigaCity gives them ₹3.21L/acre/year with buyback guarantees
@@ -65,9 +65,17 @@ India's farmland crisis and solar access gap are the same problem viewed from di
 
 > One land. Clean energy. Organic food. Three stakeholders winning simultaneously.
 
-**Built**: full multi-page marketing site (R3F 3D scroll, GSAP, Lenis), landing page (Framer Motion), Remotion-based promotional video, design system variations.
+**Platform (Emprix)** — full-stack system powering the entire GigaCity lifecycle:
+- **6 user roles**: consumer, gig worker, investor, contractor, private project owner, admin — each with bespoke onboarding state machines and permission layers
+- **Project lifecycle**: SUBMITTED → APPROVED → LIVE → ICO_LIVE → COMPLETED with investor-exclusive funding windows, margin pool ROE calculations, and capacity snapshots
+- **Design workspace**: AI-assisted collaboration with artifact versioning, step dependencies, comment threads — per-project
+- **Material marketplace**: brand → model → technology → BOM costing (solar panels, inverters, batteries)
+- **Async infrastructure**: Celery + Redis job queue, Alembic migrations, Docker Compose production stack
+- **51 models · 23 services · 56 repositories · 160+ tests**
 
-`Next.js · React Three Fiber · GSAP · Framer Motion · Remotion · Lenis`
+**Marketing & content**: multi-page site (R3F 3D scroll, GSAP, Lenis), landing page (Framer Motion), Remotion promotional video, design system variations.
+
+`FastAPI · PostgreSQL · Redis · Celery · React 19 · TypeScript · Docker · Next.js · R3F · GSAP · Framer Motion · Remotion`
 
 ---
 
@@ -123,14 +131,12 @@ What makes it interesting: the **retrieval thinking** — hybrid BM25 + vector s
 
 ---
 
-**[Emprix](https://github.com/prabhavbansal27/emprix)** *(active)*
+**[Emprix](https://github.com/prabhavbansal27/emprix)** *(active — the platform powering GigaCity)*
 
-Production-grade platform for solar project collaboration, talent hiring, and investment — the infrastructure layer powering GigaCity. Six distinct user roles (consumer, gig worker, investor, contractor, private project owner, admin), each with bespoke onboarding state machines, permission layers, and workflows.
+See the full technical breakdown under [Founding → GigaCity](#gigacity--agrivoltaic-community-platform) above.
 
-What makes it serious engineering: **51 database models**, **23 service classes**, **56 repository classes**, ICO/funding mechanics with margin pool ROE calculations, an AI-assisted design collaboration workspace with artifact versioning and step dependencies, a full material marketplace (brand → model → technology → BOM costing), Celery async job queue with Redis, and 160+ test functions covering state machine transitions and permission boundaries.
-
-`FastAPI · PostgreSQL · Redis · Celery · React 19 · TypeScript · Tailwind v4 · Docker · Alembic · Vitest`
-*51 models · 23 services · 160+ tests · Docker Compose production stack*
+`FastAPI · PostgreSQL · Redis · Celery · React 19 · TypeScript · Tailwind v4 · Docker · Alembic`
+*51 models · 23 services · 56 repositories · 160+ tests*
 
 ---
 
@@ -219,60 +225,6 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.63%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.0 MB Used in GitHub's Storage 
- > 
-> 🏆 156 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-🌆 Daytime                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-🌃 Evening                403 commits         █████████░░░░░░░░░░░░░░░░   37.56 % 
-🌙 Night                  525 commits         ████████████░░░░░░░░░░░░░   48.93 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   206 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Tuesday                  379 commits         █████████░░░░░░░░░░░░░░░░   35.32 % 
-Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Thursday                 35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Friday                   46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Saturday                 47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Sunday                   221 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 31/03/2026 12:54:56 UTC
 <!--END_SECTION:waka-->
 
 ---
