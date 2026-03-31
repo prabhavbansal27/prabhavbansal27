@@ -197,6 +197,60 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.39%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 153 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 18 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+🌆 Daytime                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+🌃 Evening                402 commits         █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌙 Night                  525 commits         ████████████░░░░░░░░░░░░░   48.97 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   206 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Tuesday                  376 commits         █████████░░░░░░░░░░░░░░░░   35.07 % 
+Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Thursday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Friday                   46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Saturday                 47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Sunday                   221 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 31/03/2026 12:10:01 UTC
 <!--END_SECTION:waka-->
 
 ---
