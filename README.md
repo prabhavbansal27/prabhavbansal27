@@ -225,6 +225,8 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2040%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.40%20million%20lines%20of%20code-blue?style=flat)
@@ -233,7 +235,7 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 184 Contributions in the Year 2026
+> 🏆 186 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -241,8 +243,43 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 31/03/2026 19:06:38 UTC
+```text
+🌞 Morning                44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+🌆 Daytime                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+🌃 Evening                410 commits         █████████░░░░░░░░░░░░░░░░   37.82 % 
+🌙 Night                  527 commits         ████████████░░░░░░░░░░░░░   48.62 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   206 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Tuesday                  386 commits         █████████░░░░░░░░░░░░░░░░   35.61 % 
+Wednesday                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Thursday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Friday                   46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Saturday                 47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Sunday                   221 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 1 hr 18 mins        ███████████████████░░░░░░   77.85 % 
+TypeScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+
+🔥 Editors: 
+Antigravity              1 hr 40 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 01/04/2026 02:52:15 UTC
 <!--END_SECTION:waka-->
 
 ---
