@@ -225,8 +225,6 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.99%20million%20lines%20of%20code-blue?style=flat)
@@ -235,7 +233,7 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 828 Contributions in the Year 2026
+> 🏆 829 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -246,19 +244,19 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+🌞 Morning                285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 🌆 Daytime                538 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-🌃 Evening                1386 commits        ██████████░░░░░░░░░░░░░░░   41.51 % 
-🌙 Night                  1130 commits        ████████░░░░░░░░░░░░░░░░░   33.84 % 
+🌃 Evening                1387 commits        ██████████░░░░░░░░░░░░░░░   41.53 % 
+🌙 Night                  1130 commits        ████████░░░░░░░░░░░░░░░░░   33.83 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   677 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Tuesday                  610 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Wednesday                617 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Monday                   677 commits         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Tuesday                  610 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Wednesday                617 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
 Thursday                 584 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Friday                   174 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Friday                   175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 Saturday                 311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 Sunday                   366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 ```
@@ -284,7 +282,7 @@ Mac                      40 hrs 32 mins      ███████████�
 ```
 
 
- Last Updated on 15/05/2026 14:16:26 UTC
+ Last Updated on 15/05/2026 19:44:00 UTC
 <!--END_SECTION:waka-->
 
 ---
