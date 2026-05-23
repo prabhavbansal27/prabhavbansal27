@@ -225,8 +225,6 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2052%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.99%20million%20lines%20of%20code-blue?style=flat)
@@ -235,7 +233,7 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 860 Contributions in the Year 2026
+> 🏆 861 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -247,9 +245,9 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 
 ```text
 🌞 Morning                293 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-🌆 Daytime                546 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-🌃 Evening                1394 commits        ██████████░░░░░░░░░░░░░░░   41.35 % 
-🌙 Night                  1138 commits        ████████░░░░░░░░░░░░░░░░░   33.76 % 
+🌆 Daytime                546 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+🌃 Evening                1395 commits        ██████████░░░░░░░░░░░░░░░   41.37 % 
+🌙 Night                  1138 commits        ████████░░░░░░░░░░░░░░░░░   33.75 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -259,8 +257,8 @@ Tuesday                  614 commits         █████░░░░░░�
 Wednesday                621 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
 Thursday                 588 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
 Friday                   179 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Saturday                 318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Sunday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Saturday                 319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Sunday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 ```
 
 
@@ -283,7 +281,7 @@ Mac                      20 hrs 47 mins      ███████████�
 ```
 
 
- Last Updated on 23/05/2026 13:42:52 UTC
+ Last Updated on 23/05/2026 19:16:16 UTC
 <!--END_SECTION:waka-->
 
 ---
