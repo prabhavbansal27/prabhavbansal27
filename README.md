@@ -225,15 +225,17 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.03%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.1 MB Used in GitHub's Storage 
+> 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 899 Contributions in the Year 2026
+> 🏆 923 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -241,8 +243,47 @@ Bash-like shell in C — piping, I/O redirection, process management, job contro
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 28/05/2026 20:30:56 UTC
+```text
+🌞 Morning                309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+🌆 Daytime                551 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+🌃 Evening                1407 commits        ██████████░░░░░░░░░░░░░░░   40.98 % 
+🌙 Night                  1166 commits        ████████░░░░░░░░░░░░░░░░░   33.96 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   685 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Tuesday                  618 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Wednesday                625 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Thursday                 599 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Friday                   213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Saturday                 319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Sunday                   374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 13 hrs 7 mins       ███████████████░░░░░░░░░░   59.68 % 
+Vue                      3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Python                   3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+HTML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+
+🔥 Editors: 
+Claude Code              14 hrs 19 mins      ████████████████░░░░░░░░░   65.10 % 
+Antigravity              7 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
+
+💻 Operating System: 
+Mac                      22 hrs              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 29/05/2026 03:58:06 UTC
 <!--END_SECTION:waka-->
 
 ---
